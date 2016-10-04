@@ -44,7 +44,8 @@ h1,h3,h4 {
 }
 
 .photo {
-  padding-bottom: 5px;
+  border: solid 5px #47b8e0;
+  margin-bottom: 5px;
 }
 
 .col-md-6,.col-sm-6,.col-xs-6 {
