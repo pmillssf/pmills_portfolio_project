@@ -1,0 +1,27 @@
+{
+  "name": "pmills_porfolio_project",
+  "version": "1.0.0",
+  "description": "my grunt files for the portfolio project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pmillssf/pmills_portfolio_project.git"
+  },
+  "keywords": [
+    "grunt"
+  ],
+  "author": "PaulM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pmillssf/pmills_portfolio_project/issues"
+  },
+  "homepage": "https://github.com/pmillssf/pmills_portfolio_project#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-cssmin": "^1.0.2",
+    "grunt-responsive-images": "^0.1.9"
+  }
+}

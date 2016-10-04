@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>portfolio_project_logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-1" x="0" y="0" width="100" height="100" rx="8"></rect>
+        <text id="M" font-family="Avenir-Book, Avenir" font-size="44" font-weight="normal" fill="#FF7473">
+            <tspan x="60" y="96">M</tspan>
+        </text>
+        <text id="F" font-family="Avenir-Book, Avenir" font-size="44" font-weight="normal" fill="#FFC952">
+            <tspan x="43" y="77">F</tspan>
+        </text>
+        <text id="D" font-family="Avenir-Book, Avenir" font-size="44" font-weight="normal" fill="#47B8E0">
+            <tspan x="15" y="56">D</tspan>
+        </text>
+        <text id="P" font-family="Avenir-Book, Avenir" font-size="44" font-weight="normal" fill="#FF7473">
+            <tspan x="2" y="37">P</tspan>
+        </text>
+    </g>
+</svg>
