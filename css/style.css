@@ -29,6 +29,10 @@ h1,h3,h4 {
   background-color: transparent;
 }
 
+.logo {
+  background-color: transparent;
+}
+
 .appname {
   font-family: 'Vollkorn', serif;
   color: #ffc952
