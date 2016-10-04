@@ -33,6 +33,10 @@ h1,h3,h4 {
   background-color: transparent;
 }
 
+.banner {
+  width: 100%;
+}
+
 .appname {
   font-family: 'Vollkorn', serif;
   color: #ffc952
@@ -46,6 +50,7 @@ h1,h3,h4 {
 .photo {
   border: solid 5px #47b8e0;
   margin-bottom: 5px;
+  width: 100%;
 }
 
 .col-md-6,.col-sm-6,.col-xs-6 {
