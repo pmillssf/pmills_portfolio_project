@@ -18,3 +18,31 @@
   }
 
 }
+
+* {
+  background-color: #34314c;
+}
+
+hr {
+  height: 5px;
+  color: #34314c;
+  background-color: #47b8e0;
+  margin-bottom: 10px;
+  border-color: #34314c;
+}
+
+h1,h3,h4 {
+  color: #ff7473
+}
+
+.appname {
+  color: #ffc952
+}
+
+.appurl {
+  color: #ffc952;
+}
+
+.photo {
+  padding-bottom: 5px;
+}
